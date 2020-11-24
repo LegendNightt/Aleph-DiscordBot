@@ -1,0 +1,44 @@
+{
+
+  "token": "BOT TOKEN",
+  "logo": "LINK TO THE LOGO",
+  "prefix": "COMMANDS PREFIX",
+
+  "admin_role": "ADMIN ID ROLE",
+  "member_role": "MEMBER ID ROLE",
+  "join_channel": "JOIN CHANNEL ID",
+  "bot_channel":"KICK CHANNEL ID",
+
+  "poll": {
+    "yes_emote": "YES EMOTE WITH ID",
+    "no_emote": "NO EMOTE WITH ID"
+  },
+
+  "simplecommands": {
+    "web": "WEB LINK",
+    "form": "FORM LINK",
+    "invite": "DISCORD INVITE LINK",
+    "twitter": "TWITTER LINK",
+    "youtube": "YOUTUBE LINK"
+  },
+
+  "minecraft_servers": {
+    "survival": {
+      "server_ip": "SERVER IP WITH PORT = IP:PORT",
+      "world_path": "SERVER WORLD PATH"
+    },
+    "creativebuild": {
+      "server_ip": "SERVER IP WITH PORT IP:PORT",
+      "world_path": "SERVER WORLD PATH"
+    },
+    "creativereds": {
+      "server_ip": "SERVER IP WITH PORT IP:PORT",
+      "world_path": "SERVER WORLD PATH"
+    },
+    "mirror": {
+      "server_ip": "SERVER IP WITH PORT IP:PORT",
+      "world_path": "SERVER WORLD PATH"
+    }
+  }
+
+}
